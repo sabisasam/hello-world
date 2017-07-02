@@ -1,2 +1,5 @@
 # hello-world
-Hello World repository
+
+Hello world!
+
+Have a nice day!
